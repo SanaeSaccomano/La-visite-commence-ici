@@ -9,4 +9,6 @@ Il s'agit d'un aperçu des sujets abordés et des compétences acquises lors du 
 
 A la découverte du métier :
 
-- Savoir appeler une API
+- Savoir utiliser un modèle pré-entraîné sur le cloud
+- Evaluer la pertinence de la réponse d'un modèle
+- Utiliser un modèle pré-entraîné de façon sécurisé
