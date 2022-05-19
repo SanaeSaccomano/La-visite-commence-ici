@@ -15,3 +15,9 @@ A la découverte du métier :
 Bouleaux et Compagnie :
 - Analyse statistique univariée
 - Représentation des distributions
+
+C'est du bon :
+- Nettoyage de données
+- Visualisation intéractive de données
+- Analyses Descriptives (Corrélation de Pearson) et Réduction de dimensions (PCA)
+- Analyses Explicatives (ANOVA, CHI-2)
