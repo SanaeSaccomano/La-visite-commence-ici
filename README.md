@@ -21,3 +21,8 @@ C'est du bon :
 - Visualisation intéractive de données
 - Analyses Descriptives (Corrélation de Pearson) et Réduction de dimensions (PCA)
 - Analyses Explicatives (ANOVA, CHI-2)
+
+Dans la poche :
+- Transformer les variables pertinentes pour un modèle supervisé classique
+- Evaluer les performances d’un modèle supervisé classique
+- Adapter les hyperparamètres d’un modèle d’apprentissage supervisé classique
