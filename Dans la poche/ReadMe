@@ -1,0 +1,21 @@
+Notebook Features Engineering :
+
+- Exploration des variables
+- Imputation des valeurs manquantes
+- Fusion de bases de données
+- Visualisations
+
+
+Notebook La Démarche :
+
+- Modèle KNN
+- Encodage / Standardisation / Imputation
+- Matrice de confusion
+- Scores (sensibilité, précision, exactitude, F-mesure)
+- Calcul du bénéfice supplémentaire effectué grâce au modèle
+- Splitting train/test
+- Gridsearch
+- Validation croisée / Stratification simple / Stratification Shuffle
+- SMOTE / SVMOTE
+- PCA
+- Roc / Auroc
