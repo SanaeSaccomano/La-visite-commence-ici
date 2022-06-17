@@ -26,3 +26,4 @@ Dans la poche :
 - Transformer les variables pertinentes pour un modèle supervisé classique
 - Evaluer les performances d’un modèle supervisé classique
 - Adapter les hyperparamètres d’un modèle d’apprentissage supervisé classique
+- Interprétation globale et locale d'un modèle
