@@ -19,3 +19,16 @@ Notebook La Démarche :
 - SMOTE / SVMOTE
 - PCA
 - Roc / Auroc
+
+Notebook Les modèles :
+
+- modèle de référence KNN (K-nearest neighbors)
+- modèles linéaires (régression logistique, Machine à vecteurs de support (SVM))
+- modèles non linéaires (arbre de décision, Random Forest, 
+- modèles ensemblistes (Gradient Boosting Classifier, XGBClassifier, LightGBM Classifier, Voting)
+- modèle de réseau de neurones MLP Classifier
+- critères d'évaluation : - temps de calcul, -scores (sensibilité, precision, exactitude), - bénéfice supplémentaire par dollar investi
+
+Notebook Prêt ou Partez :
+
+Interprétation globale et locale (valeurs de Shapley, SHAP)
