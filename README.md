@@ -15,6 +15,7 @@ A la découverte du métier :
 Bouleaux et Compagnie :
 - Analyse statistique univariée
 - Représentation des distributions
+- Réflexion à propos des valeurs aberrantes vs valeurs atypiques
 
 C'est du bon :
 - Nettoyage de données
