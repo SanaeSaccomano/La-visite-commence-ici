@@ -1,9 +1,11 @@
-Analyse exploratoire d'un jeu de données
+# Analyse et visualisation d'un je ude données
+
+## Analyse exploratoire d'un jeu de données
 - description du jeu de données
 - recherche des variables d'intérêt
 - quantification des valeurs manquantes
 
-Analyse univariée et multivariée
+## Analyse univariée et multivariée
 - Distribution des variables quantitatives
 - Distribution des variables quantitatives selon une variable qualitative
 - Recherche de corrélation entre variables
