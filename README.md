@@ -17,6 +17,9 @@ Bouleaux et Compagnie :
 - Représentation des distributions
 - Réflexion à propos des valeurs aberrantes vs valeurs atypiques
 
+![Valeurs_aberrantes](https://user-images.githubusercontent.com/91669852/177218131-66af1147-b96d-45b8-961c-9898ac4bb276.PNG)
+
+
 C'est du bon :
 - Nettoyage de données
 - Visualisation intéractive de données
