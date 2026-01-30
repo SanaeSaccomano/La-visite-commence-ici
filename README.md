@@ -1,10 +1,10 @@
 # La-visite-commence-ici
-Mes projets de formation en version publique
+Mes projets en version publique
 
 
-Cette section montre une version très édulcorée des projets effectués en formation.
+Cette section montre une version très édulcorée d'une sélection de mes projets personnels.
 
-Il s'agit d'un aperçu des sujets abordés et des compétences acquises lors du cursus.
+Il s'agit d'un aperçu des sujets abordés et des compétences acquises lors de leurs réalisations.
 
 
 A la découverte du métier :
